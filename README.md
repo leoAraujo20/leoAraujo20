@@ -1,9 +1,28 @@
-## Olá, eu sou o Leônidas Araújo👋:
-*Estudante de Engenharia de Software no segundo semestre, focado em aprimorar minhas habilidades de desenvolvimento👨‍💻*
+# 👋 Olá, eu sou o Leônidas Araújo!
 
- ## Estou aprendendo📚:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" heigth="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" heigth="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" heigth="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" heigth="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" heigth="50"/>
-## Contato📩:
-<a href = "mailto:leonidasaraujo19@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          
+### 🚀 Sobre mim:
+Sou um **estudante de Engenharia de Software**, focado em aprimorar minhas habilidades no desenvolvimento de software.
 
+---
+
+### 🛠️ Tecnologias:
+
+<div align="left">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</div>
+
+---
+
+### 📩 Contato:
+
+<div align="left">
+  <a href="mailto:leonidasaraujo19@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---

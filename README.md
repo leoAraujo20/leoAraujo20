@@ -25,7 +25,7 @@ Sou um **estudante de Engenharia de Software**, focado em aprimorar minhas habil
   <a href="mailto:leonidasaraujo19@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-   <a href="https://www.linkedin.com/in/le%C3%B4nidas-araujo-249665328/" target="_blank">
+   <a href="www.linkedin.com/in/leônidas-araújo-249665328" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
